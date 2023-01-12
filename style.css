@@ -1,12 +1,16 @@
 body {
-  background: orange
+  background: pink;
 }
 
 h1, 
 p{
-  color: white
+  color: white;
 }
 
 ul{
-  color: white
+  color: white;
+}
+
+img{
+  width: 50%;
 }
