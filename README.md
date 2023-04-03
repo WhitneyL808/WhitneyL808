@@ -4,7 +4,7 @@
 
 > computers are dumb and people are smart
 
-### Hi there 👋
+## Hi there 👋
 
 ### Visit Links
 - [GitHub](https://github.com/WhitneyL808)
