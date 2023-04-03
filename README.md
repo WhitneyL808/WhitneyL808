@@ -6,8 +6,8 @@
 
 ### Visit Links
 - [GitHub](https://github.com/WhitneyL808)
-- <a href="https://codepen.io/whitney-lugo">Codepen</a>
-- LinkedIn 
+- [Codepen](https://codepen.io/whitney-lugo)
+- [LinkedIn](https://www.linkedin.com/in/whitneylugo/)
 
 
 <!--
