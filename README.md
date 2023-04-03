@@ -1,4 +1,9 @@
+# Whitney Lugo
+
+<blockquote> computers are dumb and people are smart</blockquote>
+
 ### Hi there 👋
+
 
 <!--
 **WhitneyL808/WhitneyL808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
