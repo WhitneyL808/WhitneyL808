@@ -4,6 +4,11 @@
 
 ### Hi there 👋
 
+### Visit Links
+- [GitHub] (https://github.com/WhitneyL808)
+- <a href="https://codepen.io/whitney-lugo">Codepen</a>
+- LinkedIn 
+
 
 <!--
 **WhitneyL808/WhitneyL808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
