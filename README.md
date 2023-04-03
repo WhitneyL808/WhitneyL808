@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ### Visit Links
-- [GitHub] (https://github.com/WhitneyL808)
+- [GitHub](https://github.com/WhitneyL808)
 - <a href="https://codepen.io/whitney-lugo">Codepen</a>
 - LinkedIn 
 
