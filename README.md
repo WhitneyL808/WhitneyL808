@@ -1,6 +1,6 @@
 # Whitney Lugo
 
-<blockquote> computers are dumb and people are smart</blockquote>
+> computers are dumb and people are smart
 
 ### Hi there 👋
 
