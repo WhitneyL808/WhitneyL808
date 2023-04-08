@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 ### Visit Links
-- [GitHub](https://github.com/WhitneyL808)
+- :rice_ball: [GitHub](https://github.com/WhitneyL808)
 - [Codepen](https://codepen.io/whitney-lugo)
 - [LinkedIn](https://www.linkedin.com/in/whitneylugo/)
 
