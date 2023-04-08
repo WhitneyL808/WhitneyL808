@@ -8,8 +8,8 @@
 
 ### Visit Links
 - :rice_ball: [GitHub](https://github.com/WhitneyL808)
-- [Codepen](https://codepen.io/whitney-lugo)
-- [LinkedIn](https://www.linkedin.com/in/whitneylugo/)
+- :ramen: [Codepen](https://codepen.io/whitney-lugo)
+- :ice_cream: [LinkedIn](https://www.linkedin.com/in/whitneylugo/)
 
 
 <!--
