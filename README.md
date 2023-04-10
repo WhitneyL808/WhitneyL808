@@ -2,7 +2,7 @@
 
 ![Destiny](https://media.giphy.com/media/hioV0QP2ZdvU2DYfEG/giphy.gif)
 
-> computers are dumb and people are smart
+> computers are dumb and people are smart....
 
 ## Hi there 👋
 
