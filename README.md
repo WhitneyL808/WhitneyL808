@@ -18,6 +18,9 @@ ALOHA and welcome to Whitney Lugos GitHub. You are here because you have intrest
 - ![Figma](https://img.shields.io/badge/-Figma-red) ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-orange)
 - ![Product Design](https://img.shields.io/badge/-Product%20Design-yellow) ![Enter flow state on Command (working progress)](https://img.shields.io/badge/-Enter%20flow%20state%20on%20Command%20(working%20progress)-yellowgreen)
 
+### The End 
+Welp...uh this is the end I guess, at least for this part. Not sure what you want to do now, you can look at repos below, checkout my links, or connect with me on LinkedIn! Either way, on whatever you do I hope you enjoyed learning about me and I hope you have a great rest of your day / night!, ALOHA. 
+
 
 <!--
 **WhitneyL808/WhitneyL808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
